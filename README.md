@@ -1,3 +1,5 @@
+Adım adım nasıl yapıldığını öğrenmek için makaleme buradan ulaşabilirsiniz: https://kodumunblogu.net/detail/angularda-coklu-dil-i18n-nasil-yapilir
+
 # AngularMultiLanguage
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.9.
